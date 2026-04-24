@@ -1,4 +1,4 @@
-# Aman | Embedded Systems & Hardware Engineer
+# Aman Soni| Embedded Systems & Hardware Engineer
 
 ## About Me
 Graduate Electronics Engineer from Manipal Institute of Technology with hands-on experience in mixed-signal hardware design, embedded firmware, and RF systems. Built and flown real hardware at Spaceport America Cup 2024 (2nd place, SDL Payload Challenge). 
