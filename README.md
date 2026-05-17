@@ -17,7 +17,8 @@ Currently building Project P.A.C.T. Zero — a Zynq-based phased array beamforme
 ## Projects
 | Project | Description | Tech |
 |---|---|---|
-| [P.A.C.T. Zero] | 2×2 phased array beamformer — dual config: Config A: Embedded linux and FPGA Cordic Config B: PicoRV32 softcore  sin lookup firmware AXI4-Lite, Linux kernel driver, PetaLinux | VHDL, C, PetaLinux, Zynq ZC702 Basys3  |
+| [P.A.C.T. Zero] [Project Link](https://github.com/sonixaman/PACT/tree/main/PACT-Zero)
+| 2×2 phased array beamformer — dual config: Config A: Embedded linux and FPGA Cordic Config B: PicoRV32 softcore  sin lookup firmware AXI4-Lite, Linux kernel driver, PetaLinux | VHDL, C, PetaLinux, Zynq ZC702 Basys3  |
 | Flight Computer | Pressure, altitude, acceleration measurement for rocket avionics | STM32, Embedded C, KiCad |
 | Telemetry & RF System | Real-time RF data transmission for rocket telemetry | RF hardware, PCB design |
 | Antenna Tracking System | Directional antenna alignment with real-time sensor feedback | Hardware, Control logic |
